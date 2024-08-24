@@ -244,6 +244,8 @@ should be used with property ``auto-resize``.
 		}
 	}
 
+.. _handlers_ubi_sizeproperties:
+
 size properties
 ...............
 Due to a limit in the Linux kernel API for UBI volumes, the size reserved to be

@@ -58,7 +58,7 @@ Encryption of UBI volumes
 Due to a limit in the Linux kernel API for UBI volumes, the size reserved to be
 written on disk should be declared before actually writing anything.
 
-See the property "decrypted-size" in UBI Volume Handler's documentation.
+See the property "decrypted-size" in UBI Volume Handler's documentation. :ref:`handlers_ubi_sizeproperties`
 
 Example sw-description with Encrypted Image
 -------------------------------------------
